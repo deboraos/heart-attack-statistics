@@ -2,7 +2,7 @@ Trabalho da matéria de Estatística - Especialização em Ciência de Dados e B
 
 # Base Kaggle #
 
-Base Kaggle: https://www.kaggle.com/nareshbhat/health-care-data-set-on-heart-attack-possibility?select=heart.csv
+https://www.kaggle.com/nareshbhat/health-care-data-set-on-heart-attack-possibility?select=heart.csv
 
 ## Resumo:
 
