@@ -1,4 +1,4 @@
-Trabalho da matéria de Estatística - Especialização em Ciência de Dados e Big Data
+Trabalho da matéria de Estatística Aplicada da Especialização em Ciência de Dados e Big Data na Universidade Federal da Bahia
 
 # Base Kaggle #
 
